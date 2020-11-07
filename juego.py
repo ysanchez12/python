@@ -9,6 +9,6 @@ while True:
     if ran == res:
         break
     if cont == 3:
-        print('Game Over...muchos intentos..')
+        print('fin del juego...muchos intentos..')
         break
 print("Felicitaciones..Ganaste...se ha adivinado el numero ", res)
